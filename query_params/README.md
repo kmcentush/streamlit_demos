@@ -5,5 +5,5 @@
 With the help of session state, I created this library to bring more convenience and functionality to Streamlit query parameters. Query parameters only appear in the URL if they're currently being used. Older query parameters (i.e. ones that may be part of the downstream app) are stored in the session state and reused once they're relevant again.
 
 Demo:
-![Demo GIF](https://s2.gifyu.com/images/query_params_demo.gif)
+![GIF](https://github.com/kmcentush/streamlit_libraries/blob/master/query_params/media/query_params_demo.gif)
 
